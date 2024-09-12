@@ -8,33 +8,9 @@
     tools:context=".MenuActivity">
 
     <Button
-        android:id="@+id/btnSaludApp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="SaludApp"/>
-
-    <Button
         android:id="@+id/btnIMCApp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="IMC App"/>
-
-    <Button
-        android:id="@+id/btnTODO"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="TODO App"/>
-
-    <Button
-        android:id="@+id/btnSuperhero"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="SuperHero App"/>
-
-    <Button
-        android:id="@+id/btnSettings"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Settings"/>
 
 </LinearLayout>
